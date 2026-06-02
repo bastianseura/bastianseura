@@ -13,5 +13,5 @@ Power BI · SQL · Python · Excel · Machine Learning básico · Business Intel
 - Flujo de caja y control financiero
 
 ## Contacto
-LinkedIn: www.linkedin.com/in/bastian-seura-data-analyst
+LinkedIn: www.linkedin.com/in/bastian-seura
 Email: bastianseura18@gmail.com
